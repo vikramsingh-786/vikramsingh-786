@@ -76,6 +76,3 @@
   </ul>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vikramsingh-786/vikramsingh-786/output/snake.svg" width="100%" alt="Contribution Snake" />
-</div>
